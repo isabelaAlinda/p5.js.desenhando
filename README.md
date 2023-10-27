@@ -1,5 +1,4 @@
-# p5.js.desenhando 
-<!DOCTYPE html>
+# p5.js.desenhando <!DOCTYPE html>
 <html lang="en">
   <head>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.8.0/p5.js"></script>
